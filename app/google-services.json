@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "654397768388",
+    "firebase_url": "https://projekt-zaliczenie.firebaseio.com",
+    "project_id": "projekt-zaliczenie",
+    "storage_bucket": "projekt-zaliczenie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654397768388:android:14b1832ae550615955ff91",
+        "android_client_info": {
+          "package_name": "com.codingwithmitch.googlemaps2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654397768388-ce4l9rdjei2lmvtffoq3gsf31imkh7ak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkVSBUj3JINSwI5DkmtB3aP5ibQQUGbyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654397768388-ce4l9rdjei2lmvtffoq3gsf31imkh7ak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
